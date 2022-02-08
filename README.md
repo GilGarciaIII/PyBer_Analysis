@@ -12,3 +12,8 @@ http://localhost:8888/view/Desktop/PyBer_Analysis/Analysis/Fig5.png
 # Summary 
 
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+The datashows that the majority of the business comes from urban cities. Which means that since they are shorter rides and more drivers, each ride fair cost less than any ride from the suburban and rual rides.
+Urban cities consistently bring in the most money, followed by suburban ones, and finally rural cities.
+In the line graph the lines do follow similar trends through time which reflects the similarities between city types despite the total fares being different. 
+
+http://localhost:8888/view/Desktop/PyBer_Analysis/Analysis/Pyber_fare_summary.png
